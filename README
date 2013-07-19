@@ -1,0 +1,6 @@
+General configuration files on a local machine.
+1) rsync exclude list
+I found myself to be rsync directory from locale machine to servers and
+vice-versa. Usually excluding data files, object files and so on. I create a
+file with the list of files to be excluded in general.
+
