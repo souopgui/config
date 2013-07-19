@@ -1,0 +1,12 @@
+.svn
+*.o
+*.mod
+*.out
+*.res
+*.dat
+*.nc
+*.vtk
+*.tmp
+*.tar.*
+*.tar
+Zoltan_v3.1
